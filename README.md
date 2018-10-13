@@ -1,0 +1,2 @@
+# SEG2105LAB4FIREBASE
+Firebase Lab for SEG2105 Fall 2018
